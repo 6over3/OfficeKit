@@ -235,6 +235,10 @@ private struct OfficeXMLDocumentBuilder {
   var root: OfficeXMLElement?
   var reachedEnd = false
 
+  fileprivate init(source: String) {
+    self.source = source
+  }
+
   mutating func consume(_ event: OfficeXMLEvent) throws {
     switch event {
     case .startDocument(let declaration):
