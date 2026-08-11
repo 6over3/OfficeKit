@@ -26,7 +26,10 @@ public struct OfficeContentType: RawRepresentable, Sendable, Hashable, Codable,
   ///
   /// Use `rawValue` when exact producer spelling or an unknown extension MIME type matters.
   public var uniformType: UTType? {
-    UTType(mimeType: canonicalValue)
+    if canonicalValue == "model/gltf-binary" {
+      return UTType(importedAs: "org.khronos.glb")
+    }
+    return UTType(mimeType: canonicalValue)
   }
 
   /// Whether this content type identifies XML handled by OfficeKit's event or tree readers.
