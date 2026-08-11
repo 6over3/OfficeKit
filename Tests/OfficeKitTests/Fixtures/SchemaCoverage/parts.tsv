@@ -1,0 +1,128 @@
+AlternativeFormatImportPart.json	AlternativeFormatImportPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/aFChunk		
+CalculationChainPart.json	CalculationChainPart	application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/calcChain	x:CT_CalcChain	calcChain
+CellMetadataPart.json	CellMetadataPart	application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/sheetMetadata	x:CT_Metadata	metadata
+ChartColorStylePart.json	ChartColorStylePart	application/vnd.ms-office.chartcolorstyle+xml	http://schemas.microsoft.com/office/2011/relationships/chartColorStyle	cs:CT_ColorStyle	colorStyle
+ChartDrawingPart.json	ChartDrawingPart	application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes	cdr:CT_Drawing	userShapes
+ChartPart.json	ChartPart	application/vnd.openxmlformats-officedocument.drawingml.chart+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/chart	c:CT_ChartSpace	chartSpace
+ChartStylePart.json	ChartStylePart	application/vnd.ms-office.chartstyle+xml	http://schemas.microsoft.com/office/2011/relationships/chartStyle	cs:CT_ChartStyle	chartStyle
+ChartsheetPart.json	ChartsheetPart	application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartsheet	x:CT_Chartsheet	chartsheet
+CommentAuthorsPart.json	CommentAuthorsPart	application/vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/commentAuthors	p:CT_CommentAuthorList	cmAuthorLst
+ConnectionsPart.json	ConnectionsPart	application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/connections	x:CT_Connections	connections
+ControlPropertiesPart.json	ControlPropertiesPart	application/vnd.ms-excel.controlproperties+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/ctrlProp	x14:CT_FormControlPr	formControlPr
+CoreFilePropertiesPart.json	CoreFilePropertiesPart	application/vnd.openxmlformats-package.core-properties+xml	http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties		coreProperties
+CustomDataPart.json	CustomDataPart	application/binary	http://schemas.microsoft.com/office/2007/relationships/customData		
+CustomDataPropertiesPart.json	CustomDataPropertiesPart	application/vnd.ms-excel.customDataProperties+xml	http://schemas.microsoft.com/office/2007/relationships/customDataProps	x14:CT_DatastoreItem	datastoreItem
+CustomFilePropertiesPart.json	CustomFilePropertiesPart	application/vnd.openxmlformats-officedocument.custom-properties+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/custom-properties	op:CT_Properties	Properties
+CustomPropertyPart.json	CustomPropertyPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/customProperty		
+CustomXmlMappingsPart.json	CustomXmlMappingsPart	application/xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/xmlMaps	x:CT_MapInfo	MapInfo
+CustomXmlPart.json	CustomXmlPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml		
+CustomXmlPropertiesPart.json	CustomXmlPropertiesPart	application/vnd.openxmlformats-officedocument.customXmlProperties+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps	ds:CT_DatastoreItem	datastoreItem
+CustomizationPart.json	CustomizationPart	application/vnd.ms-word.keyMapCustomizations+xml	http://schemas.microsoft.com/office/2006/relationships/keyMapCustomizations	wne:CT_Tcg	tcg
+DiagramColorsPart.json	DiagramColorsPart	application/vnd.openxmlformats-officedocument.drawingml.diagramColors+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramColors	dgm:CT_ColorTransform	colorsDef
+DiagramDataPart.json	DiagramDataPart	application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramData	dgm:CT_DataModelRoot	dataModel
+DiagramLayoutDefinitionPart.json	DiagramLayoutDefinitionPart	application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramLayout	dgm:CT_DiagramDefinition	layoutDef
+DiagramPersistLayoutPart.json	DiagramPersistLayoutPart	application/vnd.ms-office.drawingml.diagramDrawing+xml	http://schemas.microsoft.com/office/2007/relationships/diagramDrawing	dsp:CT_Drawing	drawing
+DiagramStylePart.json	DiagramStylePart	application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramQuickStyle	dgm:CT_StyleDefinition	styleDef
+DialogsheetPart.json	DialogsheetPart	application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/dialogsheet	x:CT_Dialogsheet	dialogsheet
+DigitalSignatureOriginPart.json	DigitalSignatureOriginPart	application/vnd.openxmlformats-package.digital-signature-origin	http://schemas.openxmlformats.org/package/2006/relationships/digital-signature/origin		
+DocumentSettingsPart.json	DocumentSettingsPart	application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings	w:CT_Settings	settings
+DocumentTasksPart.json	DocumentTasksPart	application/vnd.ms-office.documenttasks+xml	http://schemas.microsoft.com/office/2019/05/relationships/documenttasks	t:CT_Tasks	Tasks
+DrawingsPart.json	DrawingsPart	application/vnd.openxmlformats-officedocument.drawing+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing	xdr:CT_Drawing	wsDr
+EmbeddedControlPersistenceBinaryDataPart.json	EmbeddedControlPersistenceBinaryDataPart		http://schemas.microsoft.com/office/2006/relationships/activeXControlBinary		
+EmbeddedControlPersistencePart.json	EmbeddedControlPersistencePart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/control		
+EmbeddedObjectPart.json	EmbeddedObjectPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/oleObject		
+EmbeddedPackagePart.json	EmbeddedPackagePart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/package		
+EndnotesPart.json	EndnotesPart	application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/endnotes	w:CT_Endnotes	endnotes
+ExcelAttachedToolbarsPart.json	ExcelAttachedToolbarsPart	application/vnd.ms-excel.attachedToolbars	http://schemas.microsoft.com/office/2006/relationships/attachedToolbars		
+ExtendedChartPart.json	ExtendedChartPart	application/vnd.ms-office.chartex+xml	http://schemas.microsoft.com/office/2014/relationships/chartEx	cx:CT_ChartSpace	chartSpace
+ExtendedFilePropertiesPart.json	ExtendedFilePropertiesPart	application/vnd.openxmlformats-officedocument.extended-properties+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties	ap:CT_Properties	Properties
+ExternalWorkbookPart.json	ExternalWorkbookPart	application/vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/externalLink	x:CT_ExternalLink	externalLink
+FeaturePropertyBagsPart.json	FeaturePropertyBagsPart	application/vnd.ms-excel.featurepropertybag+xml	http://schemas.microsoft.com/office/2022/11/relationships/FeaturePropertyBag	xfpb:CT_FeaturePropertyBags	FeaturePropertyBags
+FontPart.json	FontPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/font		
+FontTablePart.json	FontTablePart	application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable	w:CT_FontsList	fonts
+FooterPart.json	FooterPart	application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer	w:CT_HdrFtr	ftr
+FootnotesPart.json	FootnotesPart	application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes	w:CT_Footnotes	footnotes
+GlossaryDocumentPart.json	GlossaryDocumentPart	application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/glossaryDocument	w:CT_GlossaryDocument	glossaryDocument
+HandoutMasterPart.json	HandoutMasterPart	application/vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/handoutMaster	p:CT_HandoutMaster	handoutMaster
+HeaderPart.json	HeaderPart	application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/header	w:CT_HdrFtr	hdr
+ImagePart.json	ImagePart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/image		
+InternationalMacroSheetPart.json	InternationalMacroSheetPart	application/vnd.ms-excel.intlmacrosheet+xml	http://schemas.microsoft.com/office/2006/relationships/xlIntlMacrosheet		
+LabelInfoPart.json	LabelInfoPart	application/vnd.ms-office.classificationlabels+xml	http://schemas.microsoft.com/office/2020/02/relationships/classificationlabels	clbl:CT_ClassificationLabelList	labelList
+LegacyDiagramTextInfoPart.json	LegacyDiagramTextInfoPart	application/vnd.ms-office.legacyDocTextInfo	http://schemas.microsoft.com/office/2006/relationships/legacyDocTextInfo		
+LegacyDiagramTextPart.json	LegacyDiagramTextPart	application/vnd.ms-office.legacyDiagramText	http://schemas.microsoft.com/office/2006/relationships/legacyDiagramText		
+MacroSheetPart.json	MacroSheetPart	application/vnd.ms-excel.macrosheet+xml	http://schemas.microsoft.com/office/2006/relationships/xlMacrosheet	x:CT_Macrosheet	macrosheet
+MailMergeRecipientDataPart.json	MailMergeRecipientDataPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/recipientData		
+MainDocumentPart.json	MainDocumentPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument	w:CT_Document	document
+Model3DReferenceRelationshipPart.json	Model3DReferenceRelationshipPart	model/gltf-binary	http://schemas.microsoft.com/office/2017/06/relationships/model3d		
+NamedSheetViewsPart.json	NamedSheetViewsPart	application/vnd.ms-excel.namedsheetviews+xml	http://schemas.microsoft.com/office/2019/04/relationships/namedSheetView	xnsv:CT_NamedSheetViews	namedSheetViews
+NotesMasterPart.json	NotesMasterPart	application/vnd.openxmlformats-officedocument.presentationml.notesMaster+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesMaster	p:CT_NotesMaster	notesMaster
+NotesSlidePart.json	NotesSlidePart	application/vnd.openxmlformats-officedocument.presentationml.notesSlide+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide	p:CT_NotesSlide	notes
+NumberingDefinitionsPart.json	NumberingDefinitionsPart	application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering	w:CT_Numbering	numbering
+PivotTableCacheDefinitionPart.json	PivotTableCacheDefinitionPart	application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/pivotCacheDefinition	x:CT_PivotCacheDefinition	pivotCacheDefinition
+PivotTableCacheRecordsPart.json	PivotTableCacheRecordsPart	application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/pivotCacheRecords	x:CT_PivotCacheRecords	pivotCacheRecords
+PivotTablePart.json	PivotTablePart	application/vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/pivotTable	x:CT_pivotTableDefinition	pivotTableDefinition
+PowerPointAuthorsPart.json	PowerPointAuthorsPart	application/vnd.ms-powerpoint.authors+xml	http://schemas.microsoft.com/office/2018/10/relationships/authors	p188:CT_AuthorList	authorLst
+PowerPointCommentPart.json	PowerPointCommentPart	application/vnd.ms-powerpoint.comments+xml	http://schemas.microsoft.com/office/2018/10/relationships/comments	p188:CT_CommentList	cmLst
+PresentationDocument.json	PresentationDocument				
+PresentationPart.json	PresentationPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument	p:CT_Presentation	presentation
+PresentationPropertiesPart.json	PresentationPropertiesPart	application/vnd.openxmlformats-officedocument.presentationml.presProps+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/presProps	p:CT_PresentationProperties	presentationPr
+QueryTablePart.json	QueryTablePart	application/vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/queryTable	x:CT_QueryTable	queryTable
+QuickAccessToolbarCustomizationsPart.json	QuickAccessToolbarCustomizationsPart	application/xml	http://schemas.microsoft.com/office/2006/relationships/ui/userCustomization		customUI
+RdArrayPart.json	RdArrayPart	application/vnd.ms-excel.rdarray+xml	http://schemas.microsoft.com/office/2017/06/relationships/rdArray	xlrd2:CT_ArrayData	arrayData
+RdRichValuePart.json	RdRichValuePart	application/vnd.ms-excel.rdrichvalue+xml	http://schemas.microsoft.com/office/2017/06/relationships/rdRichValue	xlrd:CT_RichValueData	rvData
+RdRichValueStructurePart.json	RdRichValueStructurePart	application/vnd.ms-excel.rdrichvaluestructure+xml	http://schemas.microsoft.com/office/2017/06/relationships/rdRichValueStructure	xlrd:CT_RichValueStructures	rvStructures
+RdRichValueTypesPart.json	RdRichValueTypesPart	application/vnd.ms-excel.rdrichvaluetypes+xml	http://schemas.microsoft.com/office/2017/06/relationships/rdRichValueTypes	xlrd2:CT_RichValueTypesInfo	rvTypesInfo
+RdRichValueWebImagePart.json	RdRichValueWebImagePart	application/vnd.ms-excel.rdrichvaluewebimage+xml	http://schemas.microsoft.com/office/2020/07/relationships/rdRichValueWebImage	xlrdwi:CT_WebImagesSupportingRichData	webImagesSrd
+RdSupportingPropertyBagPart.json	RdSupportingPropertyBagPart	application/vnd.ms-excel.rdsupportingpropertybag+xml	http://schemas.microsoft.com/office/2017/06/relationships/rdSupportingPropertyBag	xlrd2:CT_SupportingPropertyBags	supportingPropertyBags
+RdSupportingPropertyBagStructurePart.json	RdSupportingPropertyBagStructurePart	application/vnd.ms-excel.rdsupportingpropertybagstructure+xml	http://schemas.microsoft.com/office/2017/06/relationships/rdSupportingPropertyBagStructure	xlrd2:CT_SupportingPropertyBagStructures	spbStructures
+RibbonAndBackstageCustomizationsPart.json	RibbonAndBackstageCustomizationsPart	application/xml	http://schemas.microsoft.com/office/2007/relationships/ui/extensibility	mso14:CT_CustomUI	customUI
+RibbonExtensibilityPart.json	RibbonExtensibilityPart	application/xml	http://schemas.microsoft.com/office/2006/relationships/ui/extensibility		customUI
+RichStylesPart.json	RichStylesPart	application/vnd.ms-excel.richstyles+xml	http://schemas.microsoft.com/office/2017/06/relationships/richStyles	xlrd2:CT_RichStylesheet	richStyleSheet
+SharedStringTablePart.json	SharedStringTablePart	application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/sharedStrings	x:CT_Sst	sst
+SingleCellTablePart.json	SingleCellTablePart	application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/tableSingleCells	x:CT_SingleXmlCells	singleXmlCells
+SlicerCachePart.json	SlicerCachePart	application/vnd.ms-excel.slicerCache+xml	http://schemas.microsoft.com/office/2007/relationships/slicerCache	x14:CT_SlicerCacheDefinition	slicerCacheDefinition
+SlicersPart.json	SlicersPart	application/vnd.ms-excel.slicer+xml	http://schemas.microsoft.com/office/2007/relationships/slicer	x14:CT_Slicers	slicers
+SlideCommentsPart.json	SlideCommentsPart	application/vnd.openxmlformats-officedocument.presentationml.comments+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments	p:CT_CommentList	cmLst
+SlideLayoutPart.json	SlideLayoutPart	application/vnd.openxmlformats-officedocument.presentationml.slideLayout+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout	p:CT_SlideLayout	sldLayout
+SlideMasterPart.json	SlideMasterPart	application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideMaster	p:CT_SlideMaster	sldMaster
+SlidePart.json	SlidePart	application/vnd.openxmlformats-officedocument.presentationml.slide+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/slide	p:CT_Slide	sld
+SlideSyncDataPart.json	SlideSyncDataPart	application/vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideUpdateInfo	p:CT_SlideSyncProperties	sldSyncPr
+SpreadsheetDocument.json	SpreadsheetDocument				
+SpreadsheetPrinterSettingsPart.json	SpreadsheetPrinterSettingsPart	application/vnd.openxmlformats-officedocument.spreadsheetml.printerSettings	http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings		
+StyleDefinitionsPart.json	StyleDefinitionsPart	application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles		styles
+StylesWithEffectsPart.json	StylesWithEffectsPart	application/vnd.ms-word.stylesWithEffects+xml	http://schemas.microsoft.com/office/2007/relationships/stylesWithEffects		styles
+TableDefinitionPart.json	TableDefinitionPart	application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/table	x:CT_Table	table
+TableStylesPart.json	TableStylesPart	application/vnd.openxmlformats-officedocument.presentationml.tableStyles+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/tableStyles	a:CT_TableStyleList	tblStyleLst
+ThemeOverridePart.json	ThemeOverridePart	application/vnd.openxmlformats-officedocument.themeOverride+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/themeOverride	a:CT_BaseStylesOverride	themeOverride
+ThemePart.json	ThemePart	application/vnd.openxmlformats-officedocument.theme+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme	a:CT_OfficeStyleSheet	theme
+ThumbnailPart.json	ThumbnailPart		http://schemas.openxmlformats.org/package/2006/relationships/metadata/thumbnail		
+TimeLineCachePart.json	TimeLineCachePart	application/vnd.ms-excel.timelineCache+xml	http://schemas.microsoft.com/office/2011/relationships/timelineCache	x15:CT_TimelineCacheDefinition	timelineCacheDefinition
+TimeLinePart.json	TimeLinePart	application/vnd.ms-excel.timeline+xml	http://schemas.microsoft.com/office/2011/relationships/timeline	x15:CT_Timelines	timelines
+UserDefinedTagsPart.json	UserDefinedTagsPart	application/vnd.openxmlformats-officedocument.presentationml.tags+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags	p:CT_TagList	tagLst
+VbaDataPart.json	VbaDataPart	application/vnd.ms-word.vbaData+xml	http://schemas.microsoft.com/office/2006/relationships/wordVbaData	wne:CT_VbaSuppData	vbaSuppData
+VbaProjectPart.json	VbaProjectPart	application/vnd.ms-office.vbaProject	http://schemas.microsoft.com/office/2006/relationships/vbaProject		
+ViewPropertiesPart.json	ViewPropertiesPart	application/vnd.openxmlformats-officedocument.presentationml.viewProps+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/viewProps	p:CT_ViewProperties	viewPr
+VmlDrawingPart.json	VmlDrawingPart	application/vnd.openxmlformats-officedocument.vmlDrawing	http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing		
+VolatileDependenciesPart.json	VolatileDependenciesPart	application/vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/volatileDependencies	x:CT_VolTypes	volTypes
+WebExTaskpanesPart.json	WebExTaskpanesPart	application/vnd.ms-office.webextensiontaskpanes+xml	http://schemas.microsoft.com/office/2011/relationships/webextensiontaskpanes	wetp:CT_OsfTaskpanes	taskpanes
+WebExtensionPart.json	WebExtensionPart	application/vnd.ms-office.webextension+xml	http://schemas.microsoft.com/office/2011/relationships/webextension	we:CT_OsfWebExtension	webextension
+WebSettingsPart.json	WebSettingsPart	application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings	w:CT_WebSettings	webSettings
+WordAttachedToolbarsPart.json	WordAttachedToolbarsPart	application/vnd.ms-word.attachedToolbars	http://schemas.microsoft.com/office/2006/relationships/attachedToolbars		
+WordCommentsExtensiblePart.json	WordCommentsExtensiblePart	application/vnd.openxmlformats-officedocument.wordprocessingml.commentsExtensible+xml	http://schemas.microsoft.com/office/2018/08/relationships/commentsExtensible	w16cex:CT_CommentsExtensible	commentsExtensible
+WordprocessingCommentsExPart.json	WordprocessingCommentsExPart	application/vnd.openxmlformats-officedocument.wordprocessingml.commentsExtended+xml	http://schemas.microsoft.com/office/2011/relationships/commentsExtended	w15:CT_CommentsEx	commentsEx
+WordprocessingCommentsIdsPart.json	WordprocessingCommentsIdsPart	application/vnd.openxmlformats-officedocument.wordprocessingml.commentsIds+xml	http://schemas.microsoft.com/office/2016/09/relationships/commentsIds	w16cid:CT_CommentsIds	commentsIds
+WordprocessingCommentsPart.json	WordprocessingCommentsPart	application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments	w:CT_Comments	comments
+WordprocessingDocument.json	WordprocessingDocument				
+WordprocessingPeoplePart.json	WordprocessingPeoplePart	application/vnd.openxmlformats-officedocument.wordprocessingml.people+xml	http://schemas.microsoft.com/office/2011/relationships/people	w15:CT_People	people
+WordprocessingPrinterSettingsPart.json	WordprocessingPrinterSettingsPart	application/vnd.openxmlformats-officedocument.wordprocessingml.printerSettings	http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings		
+WorkbookPart.json	WorkbookPart		http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument	x:CT_Workbook	workbook
+WorkbookPersonPart.json	WorkbookPersonPart	application/vnd.ms-excel.person+xml	http://schemas.microsoft.com/office/2017/10/relationships/person	xltc:CT_PersonList	personList
+WorkbookRevisionHeaderPart.json	WorkbookRevisionHeaderPart	application/vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/revisionHeaders	x:CT_RevisionHeaders	headers
+WorkbookRevisionLogPart.json	WorkbookRevisionLogPart	application/vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/revisionLog	x:CT_Revisions	revisions
+WorkbookStylesPart.json	WorkbookStylesPart	application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles	x:CT_Stylesheet	styleSheet
+WorkbookUserDataPart.json	WorkbookUserDataPart	application/vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/usernames	x:CT_Users	users
+WorksheetCommentsPart.json	WorksheetCommentsPart	application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments	x:CT_Comments	comments
+WorksheetPart.json	WorksheetPart	application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml	http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet	x:CT_Worksheet	worksheet
+WorksheetSortMapPart.json	WorksheetSortMapPart	application/vnd.ms-excel.wsSortMap+xml	http://schemas.microsoft.com/office/2006/relationships/wsSortMap	xne:CT_WorksheetSortMap	worksheetSortMap
+WorksheetThreadedCommentsPart.json	WorksheetThreadedCommentsPart	application/vnd.ms-excel.threadedcomments+xml	http://schemas.microsoft.com/office/2017/10/relationships/threadedComment	xltc:CT_ThreadedComments	ThreadedComments
+XmlSignaturePart.json	XmlSignaturePart	application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml	http://schemas.openxmlformats.org/package/2006/relationships/digital-signature/signature		Signature

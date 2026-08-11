@@ -1,0 +1,7 @@
+# Paths are relative suffixes followed by a tab and a stable error substring.
+TestDataStorage/v2FxTestFiles/spreadsheet/O12 templates/ProjectStatusReport_TP10094814.xltx	The document element must be Types in the OPC content-types namespace.
+TestDataStorage/v2FxTestFiles/wordprocessing/protected/document with password.docx	encryptedDocument
+TestDataStorage/v2FxTestFiles/wordprocessing/unable to normalized/document with password.docx	encryptedDocument
+TestFiles/InvalidDocProps.docx	missingPart("/docProps/core.xml")
+TestFiles/May_12_04.docx	invalidPartName("#_THIS_WEEK_IN")
+TestFiles/encrypted_pptx.pptx	encryptedDocument
